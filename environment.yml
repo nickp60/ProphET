@@ -1,0 +1,7 @@
+name: ProphET
+channels:
+  - biocore
+dependencies:
+  - blast-legacy
+  - bedtools
+  - perl-bioperl
