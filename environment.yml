@@ -4,4 +4,5 @@ channels:
 dependencies:
   - blast-legacy
   - bedtools
+  - emboss
   - perl-bioperl
